@@ -15,7 +15,9 @@ metadata:
   provider: Red Hat
   supportUrl: https://github.com/devfile-samples/devfile-support#support-information
 parent:
-  uri: https://raw.githubusercontent.com/thepetk/registry/main/stacks/java-springboot/1.2.0/devfile.yaml
+  id: java-springboot
+  registryUrl: 'https://devfile-registry-default.192.168.49.2.nip.io'
+  version: 1.2.0
 components:
   - name: image-build
     image:
