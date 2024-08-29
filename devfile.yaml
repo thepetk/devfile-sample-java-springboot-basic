@@ -16,7 +16,7 @@ metadata:
   supportUrl: https://github.com/devfile-samples/devfile-support#support-information
 parent:
   id: java-springboot
-  registryUrl: 'https://devfile-registry-default.192.168.49.2.nip.io'
+  registryUrl: 'https://1386-83-59-144-150.ngrok-free.app'
   version: 1.2.0
 components:
   - name: image-build
